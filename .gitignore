@@ -1,0 +1,14 @@
+# Python
+*.pyc
+/.py-env
+
+# PyCharm files
+/.idea
+
+# setup.py related stuff
+/build
+/dist
+*.egg-info
+
+# sphinx
+/doc/_build
